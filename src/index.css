@@ -61,7 +61,8 @@ body {
   width: 100%;
   color: #000;
   background: #05cdff;
-  font-size: 16px;
+  font-size: 18px;
+  font-weight: 500;
   transition: all 0.1s linear;
   padding: 5px 8px;
   margin-top: 10px;
