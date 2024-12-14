@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
 
 ## 🌐 Link
-<a href="https://react-app-forms-dejvcodes.netlify.app/">React App</a>
+<a href="https://react-app-forms-dejvcodes.netlify.app/">React App Form</a>
 
 ## License🔐
 [MIT License](LICENSE) 
